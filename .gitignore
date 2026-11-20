@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.log
+build/
+dist/
+_nuitka/
+_pyarmor_dist/
+*.build/
+*.onefile-build/
+mcp.json
+memory/
+history.json
+.venv/
+venv/
+
+# Local backups and generated archives
+ai-agent.py.old
+*.zip
+*.old
+nuitka-crash-report.xml
+skills/_letoltott/
